@@ -1,0 +1,15 @@
+{
+    "city":{
+        "name":"Neiva"
+    },
+    "point":[
+        {
+            "id":1,
+            "title":"Titulo Principal",
+            "breDescription":"descripcion breve",
+            "description":"descripcion",
+            "temperatura":"21°",
+            "calificacion":"5"
+        }
+    ]
+}
