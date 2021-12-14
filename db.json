@@ -11,7 +11,9 @@
             "breDescrip":"Conoceras el rio magdalena ,montar en lancha, disfrutar de la naturaleza.",
             "grados":32.0,
             "estrellas":4.0,
-            "imang":"https://notiespartano.com/wp-content/uploads/2020/10/desierto-de-la-tatacoa.jpg"
+            "imang":"https://notiespartano.com/wp-content/uploads/2020/10/desierto-de-la-tatacoa.jpg",
+            "lat":"3.233147",
+            "ing":"-75.175281"
         },
         {
             "id":2,
@@ -21,7 +23,9 @@
             "breDescrip":"Bonita catedra para orar en las montañas, asistir a eventos.",
             "grados":28.0,
             "estrellas":4.0,
-            "imang":""
+            "imang":"https://lh6.googleusercontent.com/-puNNMMxIW5c/TYeNyJDmp6I/AAAAAAAAAKs/7dJHgOpMDyU/s1600/14.+Catedral.+Neiva.jpg",
+            "lat":"2.925310",
+            "ing":"-75.289004"
         },
         {
             "id":3,
@@ -31,7 +35,9 @@
             "breDescrip":"Podras descubrir toda clase de ruinas antiguas.",
             "grados":29.0,
             "estrellas":3.5,
-            "imang":""
+            "imang":"http://soachailustrada.com/wp-content/uploads/2016/08/11206889_1387259744936613_9054984006262226018_o.jpg",
+            "lat":"1.887776",
+            "ing":"-76.295455"
         },
         {
             "id":4,
@@ -41,7 +47,9 @@
             "breDescrip":"Disfruta de los hermosos paisajes, desde una increible vista",
             "grados":32.0,
             "estrellas":4.0,
-            "imang":""
+            "imang":"https://i.pinimg.com/736x/21/43/7f/21437f0bd7a33ce7bc5e7c4ec33c7fea.jpg",
+            "lat":"2.414361",
+            "ing":"-75.486282"
         },
         {
             "id":5,
@@ -51,7 +59,9 @@
             "breDescrip":"Emblematico edifio de la ciudad de neiva.",
             "grados":28.0,
             "estrellas":5.0,
-            "imang":""
+            "imang":"http://1.bp.blogspot.com/-bxBSs4rTmdA/Tkhx7j-9_qI/AAAAAAAABcc/77Sl4IOzaxg/s1600/SDC18561.JPG",
+            "lat":"2.998606",
+            "ing":"-75.304632"
         }
     ]
 }
